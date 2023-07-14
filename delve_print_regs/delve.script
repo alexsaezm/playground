@@ -1,4 +1,3 @@
 break main.main
 continue
 regs -a
-exit
